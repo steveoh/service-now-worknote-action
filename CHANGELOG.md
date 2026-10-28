@@ -1,5 +1,15 @@
 # Changelog
 
+## [1.0.25](https://github.com/agrc/service-now-worknote-action/compare/v1.0.24...v1.0.25) (2026-10-28)
+
+
+### Dependencies
+
+* bump js-yaml from 4.3.1 to 4.3.2 ([#160](https://github.com/agrc/service-now-worknote-action/issues/160)) ([2cc47a8](https://github.com/agrc/service-now-worknote-action/commit/2cc47a87f6adf87e8fb70c09414882351283f4a2))
+* bump source-map-js from 1.2.1 to 1.2.2 ([#169](https://github.com/agrc/service-now-worknote-action/issues/169)) ([b0ebffd](https://github.com/agrc/service-now-worknote-action/commit/b0ebffd944184d461db175c6a4831dc1856d5209))
+* bump undici from 6.28.0 to 6.29.1 ([#170](https://github.com/agrc/service-now-worknote-action/issues/170)) ([59f7ce4](https://github.com/agrc/service-now-worknote-action/commit/59f7ce465b18e50989d92180f6f4a0d000815e8e))
+* **dev:** bump the safe-dependencies group across 1 directory with 5 updates ([#173](https://github.com/agrc/service-now-worknote-action/issues/173)) ([60c83a7](https://github.com/agrc/service-now-worknote-action/commit/60c83a7332e0cf8eaace3dc00c2ad6ff709e827c))
+
 ## [1.0.24](https://github.com/agrc/service-now-worknote-action/compare/v1.0.23...v1.0.24) (2026-08-11)
 
 
